@@ -39,3 +39,5 @@
 <img width="1172" height="432" alt="image" src="https://github.com/user-attachments/assets/27861f35-d190-44be-a8f2-99664fbff05f" />
 
 ### Ручной расчёт производного показателя $Q$ ($k = 3$)
+
+Отсчёт $t = 4$ (пара с $t = 1$):RPC: $Q[4] = \ln\left(\frac{47.0}{45.5}\right) = \ln(1.032967) \approx 0.0324$NIC: данные отсутствуют (пропуск)HDD: $Q[4] = \ln\left(\frac{31.6}{33.9}\right) = \ln(0.93215) \approx -0.0702$Отсчёт $t = 5$ (пара с $t = 2$):RPC: $Q[5] = \ln\left(\frac{52.9}{46.0}\right) = \ln(1.15) \approx 0.1398$NIC: $Q[5] = \ln\left(\frac{53.0}{53.6}\right) = \ln(0.9888) \approx -0.0112$HDD: данные за $t = 2$ отсутствуют (пропуск расчета)
