@@ -18,11 +18,10 @@
 - **Структура Incident:**
   ```
   typedef struct {
-      int time;
-      int type;
-      int first;
-      int second;
-  } Incident;
+    int time;
+    int type;
+    float value;
+} Incident;
   ```
 - **Поля:** номер отсчёта, тип инцидента, значение показателя.
   ```
