@@ -76,6 +76,7 @@
 
 Вывод программы в консоли:
 
+<img width="250" height="404" alt="image" src="https://github.com/user-attachments/assets/9b973062-2b2b-42c8-b99c-ddff4b4d458e" />
 
 
 ## 5. Сравнение программы с ручным расчётом
